@@ -15,10 +15,10 @@ var Follow = User.Follow.FromUsername("coolboy", "yourSessionID").Result;
 
 Live Comment
 ```cs
-var Follow = User.LiveComment.FromRoomId("Hello!", 1000000000000, "yourSessionID").Result;
+var Comment = User.LiveComment.FromRoomId("Hello!", 1000000000000, "yourSessionID").Result;
 ```
 
 Id Converter
 ```cs
-var Follow = User.IdConverter.Check("coolboy").Result;
+var Convert = User.IdConverter.Check("coolboy").Result;
 ```
