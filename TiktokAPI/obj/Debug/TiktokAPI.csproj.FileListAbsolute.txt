@@ -1,7 +1,0 @@
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\bin\Debug\TiktokAPI.pdb
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\obj\Debug\TiktokAPI.csproj.AssemblyReference.cache
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\obj\Debug\TiktokAPI.csproj.CoreCompileInputs.cache
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\obj\Debug\TiktokAPI.pdb
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\bin\Debug\TiktokAPI.dll.config
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\bin\Debug\TiktokAPI.dll
-C:\Users\mertk\source\repos\TiktokAPI\TiktokAPI\obj\Debug\TiktokAPI.dll
